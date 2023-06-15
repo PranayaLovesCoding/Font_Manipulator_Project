@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(179, 253, 253);
+}
+.button{
+    background-color: pink;
+    border-radius: 20px;
+    margin-top: 5;
+    margin-left: 5;
+    margin-right: 5;
+    box-shadow: 5px 5px 18px grey;
+}
+h5{
+    color: rgb(38, 0, 255);
+    font-style: italic;
+}
+.footer{
+    background-color: rgb(163, 163, 163);
+    color: black;
+    font-weight: bold;
+    bottom:0;
+    position:fixed;
+    width:100%;
+}
+canvas{
+    background-color: white;
+    border: ridge black 5px;
+    border-radius: 10px;
+}
